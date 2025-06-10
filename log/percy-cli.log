@@ -1,0 +1,56 @@
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-click-0] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-click-0
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-click-1] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-click-1
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-click-2] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-click-2
+[percy] Finalized build #1: https://percy.io/9560f98d/web/Tejas_SDK-0fa2a016/builds/40891386
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 40891386_build_40891386_cli_6beb9f10afe8e64fe3e16c90a5e7239ec3b8c1e3
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-0] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-0
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1] : Starting automate screenshot capture ...
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-3] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-3
+[percy] Finalized build #2: https://percy.io/9560f98d/web/Tejas_SDK-0fa2a016/builds/40891557
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 40891557_build_40891557_cli_9a6a35538bced8208e4654fd6ed1bc6a7759f91d
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-0] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-0
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1] : Starting automate screenshot capture ...
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-3] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-3
+[percy] Finalized build #3: https://percy.io/9560f98d/web/Tejas_SDK-0fa2a016/builds/40891631
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 40891631_build_40891631_cli_cc5a73baa3da273cd87be971a607ba2c6d743eda
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Finalized build #4: https://percy.io/9560f98d/web/Tejas_SDK-0fa2a016/builds/40891717
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 40891717_build_40891717_cli_8de7bcd5ac0d3db78dbaaa283fac4be5213f9a1e
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-0] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-0
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1] : Starting automate screenshot capture ...
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-1
+[[95mpercy[39m] [org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-3] : Starting automate screenshot capture ...
+[percy] Snapshot taken: org.example.GoogleSearchTest-searchSeleniumOnGoogle-testcase-3
+[percy] Finalized build #5: https://percy.io/9560f98d/web/Tejas_SDK-0fa2a016/builds/40891738
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 40891738_build_40891738_cli_65c3b4f78cff3a5c20b48885f83061b621f910dd
