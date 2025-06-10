@@ -1,3 +1,1 @@
-Github token-
-
-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
+This is my sample project for testNG with SDK.
